@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Paper-Verify: Validate Academic Paper Claims Against Experiment Results"
+version: 0.1.0
+date-released: 2026-02-04
+url: "https://github.com/rakaarao17/paper-verify-release"
+repository-code: "https://github.com/rakaarao17/paper-verify-release"
+license: MIT
+authors:
+  - family-names: "Arasada"
+    given-names: "Rakesh"
+keywords:
+  - latex
+  - paper-verification
+  - reproducibility
+  - research
+  - academic-writing
+  - machine-learning
+abstract: >
+  A CLI tool that automatically validates numeric claims in academic 
+  papers against actual experiment result files. Helps researchers 
+  ensure accuracy and reproducibility by cross-referencing paper 
+  claims with JSON/CSV result data.
