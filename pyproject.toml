@@ -52,8 +52,8 @@ dev = [
 paperverify = "paperverify.cli:app"
 
 [project.urls]
-Homepage = "https://github.com/rakaarao17/paper-verify-release"
-Repository = "https://github.com/rakaarao17/paper-verify-release"
+Homepage = "https://github.com/rakaarao17/Paper-Verify"
+Repository = "https://github.com/rakaarao17/Paper-Verify"
 
 [tool.setuptools.packages.find]
 where = ["src"]

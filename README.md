@@ -2,7 +2,7 @@
 
 **Validate academic paper claims against your actual results.**
 
-[![CI](https://github.com/rakaarao17/paper-verify-release/actions/workflows/ci.yml/badge.svg)](https://github.com/rakaarao17/paper-verify-release/actions)
+[![CI](https://github.com/rakaarao17/Paper-Verify/actions/workflows/ci.yml/badge.svg)](https://github.com/rakaarao17/Paper-Verify/actions)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -69,8 +69,8 @@ All formats work out of the box — no extras needed!
 ## 🛠️ Development
 
 ```bash
-git clone https://github.com/rakaarao17/paper-verify-release
-cd paper-verify-release
+git clone https://github.com/rakaarao17/Paper-Verify
+cd Paper-Verify
 pip install -e ".[dev]"
 pytest
 ```
