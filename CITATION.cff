@@ -4,8 +4,9 @@ type: software
 title: "Paper-Verify: Validate Academic Paper Claims Against Experiment Results"
 version: 0.1.0
 date-released: 2026-02-04
-url: "https://github.com/rakaarao17/paper-verify"
-repository-code: "https://github.com/rakaarao17/paper-verify"
+url: "https://github.com/rakaarao17/Paper-Verify"
+repository-code: "https://github.com/rakaarao17/Paper-Verify"
+doi: "10.5281/zenodo.18481596"
 license: MIT
 authors:
   - family-names: "Arasada"
